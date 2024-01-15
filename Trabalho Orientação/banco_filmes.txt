@@ -1,0 +1,11 @@
+34;Um Sonho de Liberdade;Frank Darabont;A história de amizade entre dois homens injustamente condenados à prisão.;drama
+69;Pulp Fiction;Quentin Tarantino;Um intricado conto de gangsters que entrelaça várias histórias em Los Angeles. Gênero: Crime/Drama.  Inception - Christopher Nolan - Um ladrão especializado em invadir os sonhos alheios é contratado para implantar uma ideia;terror
+84;Inception ;Christopher Nolan;Um ladrão especializado em invadir os sonhos alheios é contratado para implantar uma ideia. Gênero: Ficção Científica/Ação.;terror
+9;Batman: O Cavaleiro das Trevas;Christopher Nolan;Batman enfrenta o Coringa, um criminoso psicótico que busca semear o caos em Gotham City. ;ação
+96;O Poderoso Chefão;Francis Ford Coppola ;A saga da família Corleone, líder da máfia italiana nos Estados Unidos. ;crime
+15;Forrest Gump;Robert Zemeckis;A vida de Forrest Gump, um homem comum que viveu uma vida extraordinária.;terror
+91;Interstellar;Christopher Nolan ;Uma equipe de exploradores viaja através de um buraco de minhoca em busca de um novo lar para a humanidade;ficção
+43;A Rede Social;David Fincher;A criação do Facebook e as disputas legais entre seus fundadores;drama
+57;Cidade de Deus;Fernando Meirelles;A vida em uma favela do Rio de Janeiro, centrada em dois amigos que seguem caminhos diferentes. ;crime
+60;Matrix;Wachowskis;Um hacker descobre a verdadeira natureza de sua realidade e se junta a uma rebelião contra máquinas. ;ficção
+84;Inception ;Christopher Nolan;Um ladrão especializado em invadir os sonhos alheios é contratado para implantar uma ideia. Gênero: Ficção Científica/Ação.;terror
